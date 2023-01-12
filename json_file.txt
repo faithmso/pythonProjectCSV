@@ -1,0 +1,1 @@
+[{"club": "club", "city": "city", "country": "country"}, {"club": "RealMadrid", "city": "Madrid", "country": "Spain"}, {"club": "Juventus", "city": "Turin", "country": "Italy"}, {"club": "Manchester City", "city": "Manchester", "country": "England"}]

@@ -1,0 +1,4 @@
+club,city,country
+RealMadrid,Madrid,Spain
+Juventus,Turin,Italy
+Manchester City,Manchester,England

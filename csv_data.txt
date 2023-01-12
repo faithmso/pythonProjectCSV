@@ -1,0 +1,5 @@
+name,age,university,degree
+rolf,25,mit,computer science
+jose,30,oxford,analytics
+anna,21,cambridge,mechanical engineering
+faith,23,yale,law
